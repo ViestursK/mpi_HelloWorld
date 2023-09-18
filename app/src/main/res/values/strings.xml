@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="headline">This is the first application from Group 1\nMembers:</string>
+    <string name="members">Viesturs Kalcenaus\nValters Kalcenaus\nRūdolfs Andrejs Andersons</string>
+    <string name="author">And the application was developed by Viesturs Kalcenaus</string>
+    <string name="picDesc">Shrek</string>
+
+
+</resources>
