@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="my_text"><![CDATA[
+        Hello World!\n
+\n
+        This is the first application from Group 1:\n
+        Valters Kalcenaus\n
+        Viesturs Kalcenaus\n
+        Rūdolfs Andrejs Andersons\n
+        And the application was developed by Valters Kalcenaus]]></string>
+
+
+</resources>
